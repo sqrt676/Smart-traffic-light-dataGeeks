@@ -1,15 +1,4 @@
-# Smart Traffic Lights 2
-FLAMENT Dorian (Dorian.Flament@student.umons.ac.be)
 
-NGUYEN Thuy hai (Thuy-Hai.Nguyen@student.umons.ac.be)
-
-Faculty of Engineering, University of Mons (https://web.umons.ac.be/fr/), Belgium
-
-Hardware/Software Platform course
-
-Under the direction of Pr. Carlos VALDERRAMA (CarlosAlberto.VALDERRAMASAKUYAMA@umons.ac.be)
-
-2017-2018
 
 In folders above, you can find for each part (Tutorial Version, Improved Version 1 and Improved Version 2) :
 
@@ -92,11 +81,6 @@ traffic_modif1.py in folders above
 5) Make code work for any USB webcam
 
 
-### Improved Version (automatic calibration of the road limits and priority to large vehicles) :
-
-- Global Block Diagram of the improvements performed in this project : 
-
-![alt tag](http://liverpoolfc-fr.wifeo.com/images/c/cap/capture-d-e-cran-2018-05-23-a-19-32-31.jpg)
 
 #### Improvement 1 (automatic calibration)
 traffic_modif2.py in folders above
@@ -114,35 +98,6 @@ traffic_modif2.py in folders above
 ![alt tag](http://liverpoolfc-fr.wifeo.com/images/i/imp/improv1.png)
 
 #### Improvement 2 (priority vehicles)
-traffic_modif3.py in folders above
-
-- The circles to frame the cars are replaced by rectangles, in order to calculate the area of the vehicle more accurately :
-
-![alt tag](http://liverpoolfc-fr.wifeo.com/images/c/cap/capture-d-e-cran-2018-05-23-a-18-26-48.jpg)
-
-- When a large vehicle appears on a road (area > threshold) -> The other vehicles are not counted -> Green light for this road
-
-![alt tag](http://liverpoolfc-fr.wifeo.com/images/i/imp/improv2.png)
 
 
-# Click below to access to our Project Videos on Youtube : 
-Tutorial Version :
 
-[![video link youtube](http://liverpoolfc-fr.wifeo.com/images/c/cap/capture-d-e-cran-2018-05-21-a-16-12-18.jpg)]( https://www.youtube.com/watch?v=jQJlSoAfE3g&t=2s)
-
-
-Improved Version 1 :
-
-[![video link youtube](http://liverpoolfc-fr.wifeo.com/images/y/you/youtube-improved-version-1.jpg)]( https://www.youtube.com/watch?v=-3C68o-8WWs&feature=youtu.be)
-
-Improved Version 2 : 
-
-[![video link youtube](http://liverpoolfc-fr.wifeo.com/images/y/you/youtube-improved-version-2.jpg)]( https://www.youtube.com/watch?v=j2LM9ZPuFI4&feature=youtu.be)
-
-"Untreated" Links for vidéos :
-
-Tutorial Version : https://www.youtube.com/watch?v=jQJlSoAfE3g&t=2s
-
-Improved Version 1 : https://www.youtube.com/watch?v=-3C68o-8WWs&feature=youtu.be
-
-Improved Version 2 : https://www.youtube.com/watch?v=j2LM9ZPuFI4&feature=youtu.be
